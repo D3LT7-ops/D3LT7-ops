@@ -30,7 +30,7 @@ Apaixonado por tecnologia | Foco em Banco de Dados & Processos Ágeis
 | Projeto | Descrição |
 |--------|-----------|
 | [🔗 TRABALHO-FINALWEB](https://github.com/D3LT7-ops/TRABALHO-FINALWEB) | Projeto final de desenvolvimento web com foco em banco de dados - TomMusic Escola De musica |
-| [🔗 outro-projeto]([https://github.com/D3LT7-ops/outro-projeto](https://github.com/D3LT7-ops/-10---API-REST)) | APP CLIMATICO |
+| [🔗-10---API-REST)] [(https://github.com/D3LT7-ops/-10---API-REST)] | APP CLIMATICO |
 
 ---
 
